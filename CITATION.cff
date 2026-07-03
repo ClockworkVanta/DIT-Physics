@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software or the DIT framework in your research, please cite it as below."
+authors:
+  - family-names: "Sutter"
+    given-names: "Frank"
+title: "Dissipative Information Topology (DIT) - Numerical Simulations"
+version: 1.0.0
+date-released: 2026-07-03
+url: "https://github.com/ClockworkVanta/DIT-Physics"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Sutter"
+      given-names: "Frank"
+  title: "Dissipative Information Topology: A Fundamental Theory of Vacuum Dynamics"
+  year: 2026
