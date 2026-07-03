@@ -26,7 +26,7 @@ lattice_pde_symmetry_breaking.py - 2D Lattice FEM simulation of the  collapse.
 retrocausal_echo_buffer.py - Simulates the non-Markovian memory retention and temporal echo interception (Apex Vibration).
 Usage & Installation
 To run the simulations locally, ensure you have Python 3.10+ installed along with numpy, matplotlib, and pandas.
-git clone [https://github.com/YourUsername/DIT-Physics.git](https://github.com/ClockworkVanta/DIT-Physics)
+git clone [https://github.com/ClockworkVanta/DIT-Physics](https://github.com/ClockworkVanta/DIT-Physics)
 cd DIT-Physics
 pip install -r requirements.txt
 python src/lattice_pde_symmetry_breaking.py
