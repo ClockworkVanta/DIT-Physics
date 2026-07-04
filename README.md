@@ -12,9 +12,7 @@ This repository contains the foundational preprints, mathematical derivations, a
 
 The following 60fps simulation demonstrates the theoretical flight profile of the Pathfinder V2 probe. It visualizes the transition from zero-point levitation to full DIT-field immersion (Dimensional Frustration).
 
-
-
-
+https://github.com/user-attachments/assets/65035e43-728e-4292-8abc-c9bf47a717b7
 
 📖 Theoretical Foundation
 
@@ -63,6 +61,12 @@ To run the simulations locally, ensure you have Python 3.10+ installed along wit
 git clone [https://github.com/ClockworkVanta/DIT-Physics](https://github.com/ClockworkVanta/DIT-Physics)
 cd DIT-Physics
 pip install -r requirements.txt
+
+
+https://github.com/user-attachments/assets/f0a15c05-5283-4d9a-8e52-8ddd3647c844
+
+
+
 python src/lattice_pde_symmetry_breaking.py
 
 
