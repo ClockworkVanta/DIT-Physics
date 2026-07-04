@@ -61,14 +61,7 @@ To run the simulations locally, ensure you have Python 3.10+ installed along wit
 git clone [https://github.com/ClockworkVanta/DIT-Physics](https://github.com/ClockworkVanta/DIT-Physics)
 cd DIT-Physics
 pip install -r requirements.txt
-
-
-https://github.com/user-attachments/assets/f0a15c05-5283-4d9a-8e52-8ddd3647c844
-
-
-
 python src/lattice_pde_symmetry_breaking.py
-
 
 🔬 Experimental Verification
 
