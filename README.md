@@ -1,4 +1,4 @@
-<img src="media/vector_shift_impact.png">
+<img src="media/vector_shift_impact.gif">
 
 Dissipative Information Topology (DIT)
 
