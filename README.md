@@ -1,5 +1,3 @@
-<img src="media/vector_shift_impact.gif">
-
 Dissipative Information Topology (DIT)
 
 A Fundamental Theory of Vacuum Dynamics & Dimensional Frustration
