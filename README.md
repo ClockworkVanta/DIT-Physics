@@ -33,5 +33,5 @@ python src/lattice_pde_symmetry_breaking.py
 
 
 🔬 Experimental Verification
-We invite the scientific community to independently test the DIT framework. Section 15.3 of the main paper outlines the physical blueprint for the Tetrahedral Resonance Chamber—an analog gravity experiment utilizing non-Newtonian shear-thickening fluids to macroscopically replicate the  collapse.
+I invite the scientific community to independently test the DIT framework. Section 15.3 of the main paper outlines the physical blueprint for the Tetrahedral Resonance Chamber—an analog gravity experiment utilizing non-Newtonian shear-thickening fluids to macroscopically replicate the  collapse.
 Author: Frank Sutter / M. Eng. (Independent Research) Contact: DiInTo@proton.me
