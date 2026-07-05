@@ -8,9 +8,21 @@ This repository contains the foundational preprints, mathematical derivations, a
 
 🎥 Simulation Footage: The "Vector Shift"
 
-The following 60fps simulation demonstrates the theoretical flight profile of the Pathfinder V2 probe. It visualizes the transition from zero-point levitation to full DIT-field immersion (Dimensional Frustration).
+The following 60fps simulation demonstrates the theoretical flight profile of the Pathfinder probe (. It visualizes the transition from zero-point levitation to full DIT-field immersion (Dimensional Frustration).
 
 https://github.com/user-attachments/assets/65035e43-728e-4292-8abc-c9bf47a717b7
+
+Hardware Context: Pathfinder Dimensions
+
+To accurately contextualize the physics in the simulation, it is crucial to note the extreme mass-to-volume ratio of the probe. The Pathfinder is not a hollow vessel, but a solid-state monolith:
+
+Dimensions: 2.0 m (Length) x 1.25 m (Width) x 0.6 m (Height)
+
+Total Mass: 1,046.3 kg (approx. 1.04 metric tons)
+
+Composition: Beryllium skeleton with vacuum-infiltrated Tungsten alloy ballast.
+
+Despite its compact size (comparable to a large automotive engine block), the extreme mass is mathematically required to guarantee absolute $Z=0$ topological balance against the torsional forces of the 10-Tesla ToD-Core.
 
 📖 Theoretical Foundation
 
