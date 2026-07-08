@@ -40,6 +40,9 @@ The Carrollian UV Limit: At critical density ($\rho_{crit} = 10.0$), the effecti
 
 The theoretical architecture is documented in the following core papers (available in the /docs folder):
 
+The Topological Origin of the Hubble Tension: A Dual-Deterministic Derivation of Expansion Dissipation 🚀 [OFFICIALLY PUBLISHED ON ZENODO]
+Demonstrates that the Hubble tension is not a measurement error, but the absolute thermodynamic friction of the expanding spatial matrix, calculating the constant of topological dissipation ($\Gamma_{DIT}$) at exactly 5.924 km/s/Mpc.
+
 Dissipative Information Topology: A Fundamental Theory of Vacuum Dynamics
 The primary manuscript detailing the tensorial field projections, non-Markovian Lagrangian dynamics, and the holographic relation of the pyramidal node.
 
